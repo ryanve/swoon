@@ -1,0 +1,70 @@
+.swoon-wet :not(.swoon-dry) {
+  background: inherit;
+  color: inherit;
+}
+
+.swoon-metal {
+  background: #fff !important;
+  color: #444 !important;
+}
+
+.swoon-goth {
+  background: #fff !important;
+  color: #444 !important;
+}
+
+.swoon-wood {
+  background: #0fb !important;
+  color: #333 !important;
+}
+
+.swoon-wind {
+  background: #ff0 !important;
+  color: #444 !important;
+}
+
+.swoon-wind {
+  background: #ff0 !important;
+  color: #444 !important;
+}
+
+.swoon-fire {
+  background: #f36 !important;
+  color: #fff !important;
+}
+
+.swoon-flame {
+  background: #fff !important;
+  color: #f36 !important;
+}
+
+.swoon-ash {
+  background: #888 !important;
+  color: #fff !important;
+}
+
+.swoon-mud {
+  background: #444 !important;
+  color: #fff !important;
+}
+
+.swoon-swamp {
+  background: #444 !important;
+  color: #0fb !important;
+}
+
+.swoon-water {
+  background: #09c !important;
+  color: #fff !important;
+}
+
+.swoon-wave {
+  background: #fff !important;
+  color: #09c !important;
+}
+
+.swoon-burn:enabled:hover,
+.swoon-burn:link:hover {
+  background: #888 !important;
+  color: #fff !important;
+}
